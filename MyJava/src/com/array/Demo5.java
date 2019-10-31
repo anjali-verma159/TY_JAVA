@@ -1,5 +1,5 @@
 //program to store the value in the array and increase the value by 10
-package com.primitivetypecasting;
+package com.array;
 
 public class Demo5 {
 

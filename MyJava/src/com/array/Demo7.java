@@ -1,5 +1,5 @@
 //WAP to take i/p from user to print even no's in an array starting from n...
-package com.primitivetypecasting;
+package com.array;
 
 import java.util.Scanner;
 

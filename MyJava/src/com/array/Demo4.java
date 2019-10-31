@@ -1,5 +1,5 @@
 //printing the index value in different ways 
-package com.primitivetypecasting;
+package com.array;
 
 public class Demo4 {
 

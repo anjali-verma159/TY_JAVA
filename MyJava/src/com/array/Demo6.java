@@ -1,5 +1,5 @@
 //wap to store the value in the array in reversing order
-package com.primitivetypecasting;
+package com.array;
 
 public class Demo6 {
 
